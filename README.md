@@ -24,11 +24,12 @@ Este projeto foi criado para facilitar a diversão do famoso jogo de **Amigo Sec
 
 ## 🚀 Como Usar
 
-1. **Clone este repositório para a sua máquina local**:
-   
-
-   ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
-2. **Ou acesse direto pelo link**
+1. **acesse direto pelo link**
     https://github.com/diegop-wp/amigo-secretohttps://amigo-secreto-dun.vercel.app/
   ![Design sem nome](https://github.com/user-attachments/assets/2b95240c-2201-4ca7-80cb-b309717b30af)
+
+
+   
+2. **Clone este repositório para a sua máquina local**:
+```bash
+https://github.com/diegop-wp/amigo-secreto
