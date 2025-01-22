@@ -30,5 +30,5 @@ Este projeto foi criado para facilitar a diversão do famoso jogo de **Amigo Sec
    ```bash
    git clone https://github.com/seu-usuario/amigo-secreto.git
 2. **Ou acesse direto pelo link**
-    https://amigo-secreto-dun.vercel.app/
+    https://github.com/diegop-wp/amigo-secretohttps://amigo-secreto-dun.vercel.app/
   ![Design sem nome](https://github.com/user-attachments/assets/2b95240c-2201-4ca7-80cb-b309717b30af)
